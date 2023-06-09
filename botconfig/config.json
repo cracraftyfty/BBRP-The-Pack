@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "prefix": "?",
+  "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "slashCommandsDirs": [
+        {
+                "Folder": "Inventory",
+                "CmdName": "storage",
+                "CmdDescription": "Inventory management"
+        },
+        {
+                "Folder": "StorageLogs",
+                "CmdName": "strglogs",
+                "CmdDescription": "Fetches mentioned logs"
+        },
+        {
+                "Folder": "Log",
+                "CmdName": "log",
+                "CmdDescription": "Log item Sales"
+        },
+        {
+                "Folder": "Poll",
+                "CmdName": "poll",
+                "CmdDescription": "poll command item Sales"
+        }
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "guild_ID": "944450217049198643",
+    "radio": 0,
+    "inventory": {
+        "live_channel_id": "",
+        "live_message_id": ""
+    },
+    "emotes": {
+        "check": "<a:dpscheck:979699381659910214>",
+        "wrong": "<a:dpswrong:979699382091927655>",
+        "loading": "<a:dpsload:979699380384845834>",
+        "error": "<:dpserror:979699379512426536>"
+    },
+    "storageIDS": {
+        "house": "1114220229749395487",
+        "vehicle": "1114220280806645780"
+    },
+    "logs": "1114219628558823575",
+    "saleLogs": "1114438877516668959"
+}
